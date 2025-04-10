@@ -1,1 +1,0 @@
-movement = -1 * movement

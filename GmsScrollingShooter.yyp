@@ -42,6 +42,7 @@
     {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"id":{"name":"spr_background_particles","path":"sprites/spr_background_particles/spr_background_particles.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},

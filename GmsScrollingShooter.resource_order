@@ -23,6 +23,7 @@
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"rm_lose","order":3,"path":"rooms/rm_lose/rm_lose.yy",},
     {"name":"rm_win","order":2,"path":"rooms/rm_win/rm_win.yy",},
+    {"name":"spr_background_particles","order":8,"path":"sprites/spr_background_particles/spr_background_particles.yy",},
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_bullet","order":3,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"spr_enemy1","order":4,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
