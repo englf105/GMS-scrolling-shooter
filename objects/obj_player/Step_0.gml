@@ -15,6 +15,7 @@ if keyboard_check(vk_down) {
 }
 
 if keyboard_check_pressed(vk_space) {
-	var _inst = instance_create_layer(x, y, "Instances", obj_bullet);
+	var _inst = instance_create_layer(x, y - 16, "Instances", obj_bullet);
 	_inst.direction = image_angle;
+	audio_play_sound(snd_shoot, 2, false);
 }

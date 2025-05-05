@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_lose",
   "bboxMode":0,
-  "bbox_bottom":444,
+  "bbox_bottom":497,
   "bbox_left":181,
   "bbox_right":605,
   "bbox_top":381,

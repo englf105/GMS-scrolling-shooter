@@ -1,4 +1,5 @@
 if keyboard_check_pressed(vk_enter) {
+	audio_play_sound(snd_enter, 2, false);
 	switch(room) {
 		case rm_start:
 			room_goto(rm_game);
